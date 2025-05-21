@@ -65,4 +65,4 @@ jobs:
           app-name: 'oyster-frontend-staging'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8602E32E46E497785D0E656C5E7A07B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCA54E143075442A9E85E930A835502E }}
